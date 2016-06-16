@@ -1,0 +1,32 @@
+body {
+  background-color: #8b9dc3;
+  font-family: "Lucida Grande", Tahoma;
+  text-align: center;
+}
+
+div {
+  margin: 10px auto;
+  border-radius: 25px;
+  border: 2px solid #3b5998;
+  padding: 5px;
+  display: inline-block; /* Makes it act like text so it can be centered and wrap its contents*/
+}
+
+span {
+  display: block;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  border-spacing: 10px;
+}
+
+ul {
+  text-align: left;
+}
+
+a {
+  display:block;
+}
