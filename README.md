@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 - [x] Validations
 - [x] Sanitization
 - [x] Penetration Testing
-  - [x] (list of vulnerabilities in Notes section)
+  - [x] \(list of vulnerabilities in Notes section\)
 
 The following advanced user stories are optional:
 
